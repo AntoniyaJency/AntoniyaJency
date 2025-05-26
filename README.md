@@ -66,7 +66,7 @@ Hey there! 👋 I'm Jency, a curious and passionate Computer Science Engineering
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" style="height:40px;"/>
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" style="height:40px;"/>
 </p>
-
+<br><br>
 <div align="center">
   
 # 📊 GitHub Stats:
