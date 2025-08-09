@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hey there! 👋 I'm Jency, a curious and passionate Computer Science Engineering student with a love for building real-world solutions through code. Whether it’s crafting user-friendly Java and Python applications, diving into machine learning, or designing creative frontends, I enjoy exploring the endless possibilities in tech.<br><br>💡 I believe in learning by building, and I constantly challenge myself with new projects and ideas.<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/AntoniyaJency/AntoniyaJency/blob/main/develpoment.gif">
-<br>🚀 I aim to become a full-stack developer and eventually launch my own tech startup.<br><br>🧠 I’m currently focused on mastering AI/ML, web development, and clean code architecture.<br><br>🛠️ Tech excites me because it allows me to create, solve problems, and impact lives.<br><br>✨ Outside coding, I love designing presentations, learning new tools, and helping peers grow.<br><br>Let’s connect, collaborate, and create something amazing together! 🌐
+<br>🚀 I aim to become a full-stack developer.<br><br>🧠 I’m currently focused on mastering AI/ML, web development, and clean code architecture.<br><br>🛠️ Tech excites me because it allows me to create, solve problems, and impact lives.<br><br>✨ Outside coding, I love designing presentations, learning new tools, and helping peers grow.<br><br>Let’s connect, collaborate, and create something amazing together! 🌐
 
 
 <br><br>
