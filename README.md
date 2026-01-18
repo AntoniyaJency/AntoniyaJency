@@ -23,7 +23,7 @@ Hey there! 👋 I'm Jency, a curious and passionate Computer Science Engineering
 <a href="https://www.hackerrank.com/antoniyajency" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="height:40px;" />
 </a>
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://antoniyajency.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" style="height:40px;" />
 </a>
 
