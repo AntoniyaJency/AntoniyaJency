@@ -30,6 +30,7 @@ Hey there! 👋 I'm Jency, a curious and passionate Computer Science Engineering
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="height:40px;width=60px;" />
 </a>
 
+
 <br><br>
 
 # 💻 Tech Stack:
