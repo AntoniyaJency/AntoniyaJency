@@ -26,6 +26,9 @@ Hey there! 👋 I'm Jency, a curious and passionate Computer Science Engineering
 <a href="https://antoniyajency.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" style="height:40px;" />
 </a>
+<a href="https://x.com/AntoniyaJency" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="height:40px;" />
+</a>
 
 <br><br>
 
